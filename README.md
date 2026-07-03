@@ -93,7 +93,7 @@ Practical how-to guides live in [`docs/`](docs/) and on the [blog](https://dengf
 
 ## 📮 Feedback
 
-Found a bug or want a new tool? Open an [Issue](https://github.com/deng1234vip-rgb/image-toolbox/issues)). If this saves you time, a ⭐ Star helps others find it.
+Found a bug or want a new tool? Open an [Issue](https://github.com/deng1234vip-rgb/image-toolbox/issues). If this saves you time, a ⭐ Star helps others find it.
 
 ---
 
